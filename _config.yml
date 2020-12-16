@@ -17,7 +17,7 @@
 remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "Diosas de piedra"
-description: "Spring 2021, Boston University"
+description: "Primavera 2021, Boston University"
 baseurl: #/2019-bookhistory # the subpath of your site, e.g. "/blog"
 url: https://hipomenes.github.io/batman/
 logo: "/images/coyol.jpg"
@@ -140,10 +140,10 @@ defaults:
 
 # Site Author
 author:
-  name: Hannah Alpert-Abrams
-  picture: HannahRed.jpg
-  email: halperta@brown.edu
-  twitter: hralperta
+  name: David H. Colmenares
+  picture: 
+  email: dhcg@bu.edu
+  twitter: dhcg
   links:
     - title:
       url:
