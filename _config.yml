@@ -16,7 +16,7 @@
 # theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme
 locale: en-US
-title: "Diosas de piedra: imaginarios precolombinos y coloniales en Hispanoamérica"
+title: "Diosas de piedra"
 description: "Spring 2021, Boston University"
 baseurl: #/2019-bookhistory # the subpath of your site, e.g. "/blog"
 url: https://hipomenes.github.io/batman/
