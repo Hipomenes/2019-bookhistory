@@ -16,11 +16,11 @@
 # theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme
 locale: en-US
-title: "Diosas de piedra"
+title: "Edad de Oro, Edad de Hierro"
 description: "Primavera 2021, Boston University"
 baseurl: #/2019-bookhistory # the subpath of your site, e.g. "/blog"
-url: https://hipomenes.github.io/batman/
-logo: "/images/coyol.jpg"
+url: https://hipomenes.github.io/oro-hierro/
+logo: "https://live.staticflickr.com/8250/8500253115_e63074847a_z.jpg"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
