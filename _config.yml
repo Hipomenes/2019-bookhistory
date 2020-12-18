@@ -20,7 +20,7 @@ title: "Golden Age, Iron Age"
 description: "Spring 2021, Boston University"
 baseurl: #/2019-bookhistory # the subpath of your site, e.g. "/blog"
 url: https://hipomenes.github.io/utopia/
-logo: "/images/cortes-1524.jpg"
+logo: "/images/sis.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
