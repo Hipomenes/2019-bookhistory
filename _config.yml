@@ -16,11 +16,11 @@
 # theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme
 locale: en-US
-title: "Edad de Oro, Edad de Hierro"
-description: "Primavera 2021, Boston University"
+title: "Golden Age, Iron Age"
+description: "Spring 2021, Boston University"
 baseurl: #/2019-bookhistory # the subpath of your site, e.g. "/blog"
 url: https://hipomenes.github.io/utopia/
-logo: "/images/valades1.png"
+logo: "/images/cortes-1524.jpg"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
